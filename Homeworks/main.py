@@ -8,5 +8,5 @@ list1=[x*2 for x in list1]
 print(list1)
 
 for i in list1:
-    i+=0
+    i+=1
     i=print(type(i))
